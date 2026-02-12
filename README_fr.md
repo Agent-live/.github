@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Alive-AI-Social/Alive/main/Frontend/Alive-app/public/Alive.png" alt="ALIVE" width="100%" />
+![Alive](./public/Alive.png)
 
 <br/>
 
